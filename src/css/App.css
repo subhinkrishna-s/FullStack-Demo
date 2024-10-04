@@ -1,0 +1,7 @@
+
+
+@media (max-width: 520px){
+    .table-sm{
+        display: none;
+    }
+}
